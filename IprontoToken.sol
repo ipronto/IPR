@@ -3,7 +3,7 @@ pragma solidity ^0.4.18;
 import 'zeppelin-solidity/contracts/token/StandardToken.sol';
 
 
-contract IprontoToken is StandardToken {
+contract IprontoToken is StandardToken { 
 
   // Setting Token Name to Mango
   string public constant name = "iPRONTO";
