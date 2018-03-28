@@ -20,5 +20,8 @@ Smart Contract is deployed at [0x68b539381b317a04190c3bd7ce95b9233275d02a](https
 | Token Symbol                     | IPR                           |
 | Token Type                       | ERC20                         |
 | Total Supply                     | 45,000,000                    |
+| Decimals                          | 18                            |
+| Contract Address                 | 0x68b539381b317a04190c3bd7ce95b9233275d02a                    |
 | Mineable                         | NO                            |
+
 
