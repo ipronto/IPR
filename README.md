@@ -9,7 +9,7 @@ iPRONTO brings together the best ideas, talent, resources and financing through 
 iPRONTO a Single-Window Blockchain Platform to Encourage Innovation and Attract Investment.
 
 ## Smart Contract
-Smart Contract is deployed at [0x12f3B110CCEE3Cf4DCf253ada18Ef3F1f0568d56](https://etherscan.io/token/0x12f3B110CCEE3Cf4DCf253ada18Ef3F1f0568d56)
+Smart Contract is deployed at [0x12f3B110CCEE3Cf4DCf253ada18Ef3F1f0568d56](https://etherscan.io/address/0x12f3B110CCEE3Cf4DCf253ada18Ef3F1f0568d56)
 
 
 ## iPRONTO (IPR) Token
