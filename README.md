@@ -9,7 +9,7 @@ iPRONTO brings together the best ideas, talent, resources and financing through 
 iPRONTO a Single-Window Blockchain Platform to Encourage Innovation and Attract Investment.
 
 ## Smart Contract
-Smart Contract is deployed at [0x68b539381b317a04190c3bd7ce95b9233275d02a](https://etherscan.io/token/0x68b539381b317a04190c3bd7ce95b9233275d02a)
+Smart Contract is deployed at [0x12f3B110CCEE3Cf4DCf253ada18Ef3F1f0568d56](https://etherscan.io/token/0x12f3B110CCEE3Cf4DCf253ada18Ef3F1f0568d56)
 
 
 ## iPRONTO (IPR) Token
@@ -21,7 +21,7 @@ Smart Contract is deployed at [0x68b539381b317a04190c3bd7ce95b9233275d02a](https
 | Token Type                       | ERC20                         |
 | Total Supply                     | 45,000,000                    |
 | Decimals                          | 18                            |
-| Contract Address                 | 0x68b539381b317a04190c3bd7ce95b9233275d02a                    |
+| Contract Address                 | 0x12f3B110CCEE3Cf4DCf253ada18Ef3F1f0568d56                    |
 | Mineable                         | NO                            |
 
 
